@@ -42,7 +42,7 @@ Desarrolladas en el siguiente [Repositorio 📂](https://github.com/LacavaLorenz
 
 **MachineLearning**
 3. ✅ `recomendacion_juego/{user_id}: `Devuelve una lista de 5 juegos recomendados para un usuario específico.
-Desarrollada en el siguiente [Repositorio 📂](https://github.com/LacavaLorenzo/STEAM_MLOps/blob/master/2.FutureEngeneering.ipynb)
+Desarrollada en el siguiente [Repositorio 📂](https://github.com/LacavaLorenzo/STEAM_MLOps/blob/master/4.MACHINELEARNING.ipynb)
 
 #### 🌐 Deployment en Render
 
