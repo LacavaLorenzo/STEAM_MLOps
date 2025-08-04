@@ -27,7 +27,7 @@
 
 - Exportamos los archivos en formato parquet por su **peso, eficiencia en la lectura o escritura de datos y acelerando **las consultas****
 - Se puede visualizar el proceso 🛠️ ETL en los siguientes links:
-  - [🛠️ ETL 📂](https://github.com/Lorenzo09/STEAM_MLOPS/blob/master/1.ETL.ipynb)
+  - [🛠️ ETL 📂](https://github.com/LacavaLorenzo/STEAM_MLOps/blob/master/1.ETL.ipynb)
 
 **🌐 Desarrollo de la API**
 
@@ -38,15 +38,14 @@
 **FeatureEngeneering**
 1. ✅ `developer(desarrollador:str)`: Devuelve la cantidad de juegos y porcentaje de contenido Free por año según la empresa desarrolladora
 2. ✅ `userdata(User_id:str): `Dinero gastado por el usuario, porcentaje de recomendación y cantidad de items.
-Desarrolladas en el siguiente [Repositorio 📂](https://github.com/Lorenzo09/STEAM_MLOPS/blob/master/2.FutureEngeneering.ipynb)
+Desarrolladas en el siguiente [Repositorio 📂](https://github.com/LacavaLorenzo/STEAM_MLOps/blob/master/2.FutureEngeneering.ipynb)
 
 **MachineLearning**
 3. ✅ `recomendacion_juego/{user_id}: `Devuelve una lista de 5 juegos recomendados para un usuario específico.
-Desarrollada en el siguiente [Repositorio 📂](https://github.com/Lorenzo09/STEAM_MLOPS/blob/master/4.MACHINELEARNING.ipynb)
+Desarrollada en el siguiente [Repositorio 📂](https://github.com/LacavaLorenzo/STEAM_MLOps/blob/master/2.FutureEngeneering.ipynb)
 
 #### 🌐 Deployment en Render
 
 1. Creamos un nuevo servicio en Render
 2. Lo conectamos a nuestro repositorio.
-   1. Para ahorrar espacio en el plan gratuito de Render, utilizamos un repositorio exclusivo para el despliegue con los datos que limpiamos en este proyecto (podes visualizarlo aquí [STEAM_MLOPS_DEPLOYRENDER](https://github.com/Lorenzo09/RenderDeploy.git)).
-3. Nuestro servicio está corriendo en el link: [DEPLOY_RENDER](https://steam-mlops-renderdeploy.onrender.com/)
+   1. Para ahorrar espacio en el plan gratuito de Render, utilizamos un repositorio exclusivo para el despliegue con los datos que limpiamos en este proyecto (podes visualizarlo aquí [STEAM_MLOPS_DEPLOYRENDER](https://github.com/LacavaLorenzo/STEAM_MLOps_RENDER)
